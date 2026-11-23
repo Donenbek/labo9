@@ -1,0 +1,25 @@
+
+body {
+    background-color: #e8f0ff;
+    font-family: Arial;
+    margin: 30px;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+}
+
+p, li {
+    font-size: 18px;
+}
+
+button {
+    background-color: darkblue;
+    color: white;
+    padding: 10px;
+}
